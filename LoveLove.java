@@ -7,7 +7,7 @@ import javax.microedition.lcdui.*;
 import javax.microedition.midlet.*;
 
 /**
- * @author acer
+ * @author Frendhi Dan Meta
  */
 public class LoveLove extends MIDlet implements CommandListener {
 
